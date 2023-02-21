@@ -1,0 +1,29 @@
+#principal {
+    font-family: 'Roboto', sans-serif;
+    border: solid 1px;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background-color: aquamarine;
+}
+
+fieldset {
+    margin-bottom: 10px;
+}
+
+legend {
+    font-family: 'Roboto Mono', monospace;
+    border: solid 1px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+#mifoto {
+    border: solid 2px;
+    margin: 10 px;
+}
+
+body {
+    background:url(fondo.jpg) ;
+}
